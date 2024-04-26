@@ -1,9 +1,9 @@
 print("EXERCICIO DIFERENÇA")
 
-A = float(input())
-B = float(input())
-C = float(input())
-D = float(input())
+A = int(input())
+B = int(input())
+C = int(input())
+D = int(input())
 
 DIFERENCA = ((A * B) - (C*D))
 
